@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charse="utf-8">
+  <meta nome="viewport" content="width=decive-width,initial-scale=1.0">
+  <title>alo mundo<title>
+  <link rel="stylesheet" hret="styles.css">
+  <script type="module" src="code.js></script>
+</head>
+<body>
+  <div class="center">
+    <span class="msg">ola mundo</span>
+  </div>
+<body>
+<html>
