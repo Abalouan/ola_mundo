@@ -4,12 +4,13 @@
   height: 100%;
   display: flex;
   flex-flow: row noerap;
-  align-items: center;
+  align-itens: center;
   justify-content: center;
 }
 html,bady{
 margin: 0;
 padding: 0;
+height: 100%;
 }
 .msg{
 font-size: 64px;
